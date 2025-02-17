@@ -13,3 +13,12 @@ header{
     height: 50px;
     margin-top: 50px;
 }
+.autore{
+    color: #808080;
+}
+.titolo{
+    color: #3cb4e7;
+}
+.didascalia{
+    font-size: 0.6em;
+}
