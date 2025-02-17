@@ -45,3 +45,29 @@ thead{
 .cella2{
     width: 50%;
 }
+h2{
+    color: #808080;
+    font-size: 1.1em;
+}
+.image1{
+    background-image: url(../img/monitor.jpg);
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: white;
+    font-weight: 900;
+    padding: 10px;
+    font-size: 1.2em;
+    margin: 5px;
+}
+.image2{
+    background-image: url(../img/graph.jpg);
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: white;
+    font-weight: 900;
+    padding: 10px;
+    font-size: 1.2em;
+    margin: 5px;
+}
