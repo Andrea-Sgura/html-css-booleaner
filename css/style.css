@@ -22,3 +22,6 @@ header{
 .didascalia{
     font-size: 0.6em;
 }
+.evidenziato{
+    background-color: yellow;
+}
