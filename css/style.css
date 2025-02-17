@@ -8,6 +8,7 @@ header{
     background-color: rgb(0, 136, 255);
     background-image: url(../img/pattern.png);
     background-size: contain;
+    margin-bottom: 15px;
 }
 .logo{
     height: 50px;
@@ -15,6 +16,7 @@ header{
 }
 .autore{
     color: #808080;
+    margin-bottom: 15px;
 }
 .titolo{
     color: #3cb4e7;
@@ -27,6 +29,8 @@ header{
 }
 ul{
     padding-left: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
 }
 table{
     border-collapse: collapse;
@@ -70,4 +74,8 @@ h2{
     padding: 10px;
     font-size: 1.2em;
     margin: 5px;
+}
+.paragrafo{
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
