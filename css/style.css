@@ -25,3 +25,6 @@ header{
 .evidenziato{
     background-color: yellow;
 }
+ul{
+    padding-left: 20px;
+}
