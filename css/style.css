@@ -28,3 +28,20 @@ header{
 ul{
     padding-left: 20px;
 }
+table{
+    border-collapse: collapse;
+}
+thead{
+    background-color: #20a9e5;
+    color: white;
+    text-align: left;
+}
+.riga-azzurra{
+    background-color: #b1e5f2;
+}
+.cella{
+    width: 25%;
+}
+.cella2{
+    width: 50%;
+}
